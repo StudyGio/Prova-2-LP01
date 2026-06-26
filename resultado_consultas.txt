@@ -1,0 +1,19 @@
+Dados de p1:
+Data: 26/06/26
+Hora: 14:30:00
+Paciente: Giovanna Camacho
+Medico: Prof. Tuller
+
+Dados de p2:
+Data: 27/06/26
+Hora: 09:15:00
+Paciente: Kaue Ryan Cardoso
+Medico: Dra. Ana Julia
+
+Dados de p1 alterados:
+Data: 30/06/26
+Hora: 16:45:30
+Paciente: Giovanna Camacho 
+Medico: Dr. Roberto Lima
+
+Quantidade final de consultas: 2
